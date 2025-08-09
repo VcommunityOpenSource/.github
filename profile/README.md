@@ -37,7 +37,11 @@ Our current domains of interest include:
 
 
 # ContactUs
-empty. 
+To ask for help or discuss with us you can do the either - 
+1) Go to discussions section of our communtity -> in the AskUs discussion post your questions.
+2) Go to any of our public repository -> Go to issues section -> post your questions as an issue.
+Note -  We will answer you / create a new repository for you and add you as an outside collaborator / create a public discussion for you -  based on the question you ask.
+For extensive collaboration, it would be better to also provide link for the repository you have your project on.
 
 # JoinUs
 If you share our passion for learning, teaching, and building, join our community and grow together.
