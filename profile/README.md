@@ -32,7 +32,7 @@ Our current domains of interest include:
 # 📞 ContactUs  
 To ask for help or discuss with us, you can:  
 
-1️⃣ **Go to the [Discussions](../../discussions)** section of our community → Post your questions in the **AskUs** thread.  
+1️⃣ **Go to the [Discussions](https://github.com/orgs/VcommunityOpenSource/discussions)** section of our community → Post your questions in the **AskUs** thread.  
 2️⃣ **Open an Issue** in any of our public repositories → Describe your question in detail.  
 
 > 💬 Depending on your question, we may:  
