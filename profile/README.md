@@ -47,6 +47,7 @@ For **extensive collaboration**, please provide a link to your project repositor
 # 🤝 JoinUs  
 If you share our passion for **learning, teaching, and building**, we’d love to have you in our community.  
 Our mission is to **help others through open-source programming** — a space where knowledge flows freely and everyone grows together.  
+Message us on discussions [formember](https://github.com/orgs/VcommunityOpenSource/discussions/2).
 
 Why not start by **helping juniors** who might face the same challenges you once did?  
 Your experience could be the **key that unlocks their success**. 🔑  
